@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "abiding-topic-394010",
+  "private_key_id": "119271e0696cde9fa822113abdaa3ac7c5bb212c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDaR5FC4JFoExcr\n7RPq0SX/JTIhUGlqlyFrWmgmuK2YZ7Baf2z4TeBywqb7oGfqKvHXZfnKmlLa1YGh\nN7mFMp2KILL/hip4AeahekfGv7UgN8XhFPB2KSaOPNlYJo5SZFNEcyhlVLo1QOC2\nUgJsdraLJtyMBtxS8lrNmHVluO0iFDkywqEYlrA35Z2JcivYwwMer1kWlG8T3utE\nEXDBmIzruolfAEUkYjVJJSTOELBY2nuIeDm7nFG1kg/TF0EccP/kUnhbAKMA5ijq\nkfJwATQnwnuqCun+B/O8OS/CbciM6HOM144/4k0IJNPl2oGgkaBrZSusYCfQXn09\nH8XFcpinAgMBAAECggEACW/RUTmG5R+jf3v/FxvLr2gwQ/hyAPBfutXBwvV2VoHF\nF2SC6t6TDDhrd7LLoKK9VI6iv1DvXBP28r1cq+wwRhR700g9oHU/P06bY8r4owKb\nmiDe9HzQSeifjOFogxoLRN5QVMaA9mRuUp42X0dn75l9LMtEeIw5w2xf8ZyObqFU\ns6YzCjsyB0bMw5SSGnOX/Uu/YIr/bB5WFmqySq1pmxMIvEfX3SQrBEa3JVJga8zL\nWVU62r4a3TzZXbcpy/7sHV3UWCOPK22zjTCzpb4/MOISMGZ8qmDJLzhEv+pliU1j\nIfhgbmxPYWUicNxzJt5m1MFTXSGKJ3d66RPEP+tGAQKBgQD+cbi5jkRRl2Y22dwR\nK2zJiRxdULRuNEEsu65P66lc2Htim93F0LIsCCewsghtX4TW/npjzJ5FypAuzOzB\nu6fKGpQ6LtEUO/TFRc0jTYQnk4v+C31dQCKM4GT9Vn5P/Aj5o/e1YLcecHJrJm4j\ngVNC978o5eWWYPdAIDaD7xCCZwKBgQDbnTzcieD7vPlvJQuICEJeIIAhF7Nus7n5\n21IT8REiido22MRlk+VFFm2LHbOnfZ806VoZZkrC+OMqKLF3/CDIQRMFIfRZQFi5\nhNI55EZkPVwpTr2Fb3WGLjhPjxHLWz2GQXbw9C8dc8AJhCGsuv4AKcktcNzvyw3g\nLgRdF5nPwQKBgHgVj8rzG8cuHu1wMG5iAjuzXBGmTyFbxA6qnP/XBt1sxf6p9Saw\n8gXZ63F29Ic592XIQFbtcR0bFqUfzfU47V1y4dX71m0oRsL7yG8K3H4ZIo7JOWdT\nJ3s5RDBUK9Tv7AR1oCiX9pSFGVr8jipvlK4cYrmYlpw8MzSuf0wQ/cetAoGAFdhb\nMHjKl1/h0+t0bTCdIW3MMP6Bi7Z2/mKRlIg7MxtRSHlhd9UxTiD//oGS2EtHpeS8\nYKBrOV+2gQARPyUmQaUvdig9fQ9IhBOxMa8CTYBJBZbehUJkB1fbpBZQJ9FImm0y\nnp87fIuCA7BQBTWIhI2jhFCguX2SQMVzC6uIUkECgYAvU7EJEjiMTUVAwVgSvYiw\ngs/NCrC6CsIQ6eH85CajFWRw5VHLiLaMQSt0E/CUKJwL2KZBdiMzcxSaWIew14Pe\nhCyt5IFINxriqn1PTac9cgI9jjNH50kuWDW4EwbjKRKDMFkou8I/8iYQOIcU7vvD\nRz+oJFwLbBb5rn5v1pPzyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mustafa-abdelkawy@abiding-topic-394010.iam.gserviceaccount.com",
+  "client_id": "108953755215010973336",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mustafa-abdelkawy%40abiding-topic-394010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
